@@ -186,3 +186,21 @@
 
 // const combine = onearray.concat(twarray);
 // console.log(combine);`
+
+// console.log(3 + true)
+
+
+
+
+// function fun() {
+//   const aray = 12;
+
+//   if (aray %2 === 0) {
+//     console.log('even',aray)
+    
+//   }else{
+//     console.log('odd',aray)
+//   }
+
+
+// }fun();
